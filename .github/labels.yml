@@ -1,0 +1,7 @@
+- name: performance
+  color: d73a4a
+  description: "Performance issues or investigations"
+
+- name: vscode
+  color: 0366d6
+  description: "VS Code related issues and investigations"
